@@ -1,0 +1,30 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #4d8076;
+font-family: Segoe UI, sans-serif;
+}
+
+p{
+font-size: 20px;
+text-align: center;
+font-family: Arial, sans-serif;
+}
+
+body {
+background-color: #F0F9F7;
+}
+
+h2{
+font-size: 20px;
+text-align: center;
+font-weight: 300;
+font-family: "Fira Sans", Arial, sans-serif;
+color: #FFC30F
+}
+
+p{
+font-size: 15px;
+text-align: left;
+font-family: Cliken, sans-serif;
+}
